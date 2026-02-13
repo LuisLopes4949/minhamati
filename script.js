@@ -1,12 +1,12 @@
 const gifStages = [
-    "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjBncTc1dWt3d3BmNDhvMndkemU3bTk1c3JwZ3Z2ZDlzMWJuYmxyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GElCeFszDHwzmPjThD/giphy.gif",    // 0 normal
-    "https://media1.tenor.com/m/uDugCXK4vI4AAAAd/chiikawa-hachiware.gif",  // 1 confused
-    "https://media.tenor.com/f_rkpJbH1s8AAAAj/somsom1012.gif",             // 2 pleading
-    "https://media.tenor.com/OGY9zdREsVAAAAAj/somsom1012.gif",             // 3 sad
-    "https://media1.tenor.com/m/WGfra-Y_Ke0AAAAd/chiikawa-sad.gif",       // 4 sadder
-    "https://media.tenor.com/CivArbX7NzQAAAAj/somsom1012.gif",             // 5 devastated
-    "https://media.tenor.com/5_tv1HquZlcAAAAj/chiikawa.gif",               // 6 very devastated
-    "https://media1.tenor.com/m/uDugCXK4vI4AAAAC/chiikawa-hachiware.gif"  // 7 crying runaway
+    "https://media.giphy.com/media/GElCeFszDHwzmPjThD/giphy.gif",    // 0 normal
+    "https://media.giphy.com/media/rHr7tNWWkdiO2KWfYX/giphy.gif",  // 1 confused
+    "https://media.giphy.com/media/YcCo2DJpR9EFEjuNYl/giphy.gif",             // 2 pleading
+    "https://media.giphy.com/media/2E3fgW1UVKpoUPJG1G/giphy.gif",             // 3 sad
+    ".https://media.giphy.com/media/LecpDowXF4BoinCpVT/giphy.gif",       // 4 sadder
+    "https://media.giphy.com/media/8n0Qvol0ezvStipIik/giphy.gif",             // 5 devastated
+    "https://media.giphy.com/media/1BGmBkS7XEedgog45h/giphy.gif",               // 6 very devastated
+    "https://media.giphy.com/media/3U3PcPOP8ihFRzGXni/giphy.gif"  // 7 crying runaway
 ]
 
 const noMessages = [
