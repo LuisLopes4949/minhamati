@@ -3,7 +3,7 @@ const gifStages = [
     "https://media.giphy.com/media/rHr7tNWWkdiO2KWfYX/giphy.gif",  // 1 confused
     "https://media.giphy.com/media/YcCo2DJpR9EFEjuNYl/giphy.gif",             // 2 pleading
     "https://media.giphy.com/media/2E3fgW1UVKpoUPJG1G/giphy.gif",             // 3 sad
-    ".https://media.giphy.com/media/LecpDowXF4BoinCpVT/giphy.gif",       // 4 sadder
+    "https://media.giphy.com/media/LecpDowXF4BoinCpVT/giphy.gif",       // 4 sadder
     "https://media.giphy.com/media/8n0Qvol0ezvStipIik/giphy.gif",             // 5 devastated
     "https://media.giphy.com/media/1BGmBkS7XEedgog45h/giphy.gif",               // 6 very devastated
     "https://media.giphy.com/media/3U3PcPOP8ihFRzGXni/giphy.gif"  // 7 crying runaway
